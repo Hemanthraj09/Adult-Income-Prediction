@@ -103,11 +103,8 @@ Adult-Income-Prediction/
 - **Gender & Demographics**: Income distribution patterns
 
 ## 🎯 Model Performance
-[Results will be updated after running the complete analysis]
-- **Accuracy**: TBD%
-- **Precision**: TBD%
-- **Recall**: TBD%
-- **F1-Score**: TBD%
+- **Accuracy**: 81.73%
+
 
 ## 💡 Key Insights
 - Education level significantly impacts income prediction
